@@ -15,6 +15,6 @@ enable
 threshold 门槛
 configuration  配置
 Unauthorized  非法的
-parties 当事人3453
+parties 当事人
 IIS Internet information services
 SSRS SQL Server Reporting Services 
